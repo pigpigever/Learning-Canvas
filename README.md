@@ -1,1 +1,1 @@
-# Learning-WebGL
+# Learning-Canvas
